@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student name="Korovkin">
+    <zachetka>17000</zachetka>
+    <group>10</group>
+    <subject>maths</subject>
+    <mark>3</mark>
+    <Course>1</Course>
+  </student>
+  <student name="Korovkin">
+    <zachetka>17000</zachetka>
+    <group>10</group>
+    <subject>Coding</subject>
+    <mark>4</mark>
+    <Course>1</Course>
+  </student>
+</students>
